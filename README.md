@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Augusto</h1>
-<h3 align="center">👨‍💻 Sou apaixonado por tecnologia e inovação, com sólida experiência nas áreas de desenvolvimento Front-end e Análise de dados</h3>
+<h3 align="center">👨‍💻 I am passionate about technology and innovation, with solid experience in Front-end development and Data Analysis.</h3>
 
 - 🔭 I’m currently working on [E-commerce-API](https://github.com/guilherme-augusto0611/E-commerce-API.git)
 
