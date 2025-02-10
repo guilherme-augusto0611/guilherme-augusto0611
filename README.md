@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Augusto</h1>
 <h3 align="center">👨‍💻 I am passionate about technology and innovation, with solid experience in Front-end development and Data Analysis.</h3>
 
-- 🔭 I’m currently working on [E-commerce-API](https://github.com/guilherme-augusto0611/E-commerce-API.git)
+- 🔭 I’m currently working on [YouTube-Project](https://github.com/guilherme-augusto0611/YouTube-Project.git)
 
 - 🌱 I’m currently learning **Python | Flask | AWS**
 
